@@ -10,8 +10,9 @@ body{
     background-color: #fff;
     font-size: 25px;
     background-image: url(https://www.itl.cat/pngfile/big/6-60692_lemillion-mirio-togata-my-hero-academia-boku-no.jpg);
-    background-size: 100%;
+    background-size: cover;
     background-attachment: fixed;
+    background-repeat: no-repeat
 }
 
 header{
