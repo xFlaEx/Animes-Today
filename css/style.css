@@ -4,6 +4,14 @@
     font-family: Helvetica, 'Times New Roman';
 }
 
+html, body{
+    height: 100%;
+}
+
+#tudo{
+    min-height: 100%;
+}
+
 body{
 
     color: red;
@@ -37,6 +45,7 @@ footer{
     margin: auto;
     padding: 20px 0 0 0;
     bottom: 0;
+    position: absolute;
 }
 
 .container{
