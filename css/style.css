@@ -95,6 +95,6 @@ footer{
 @media (max-width: 600px){
     #menu a{
         padding: 0;
-        font-size: 12px;
+        font-size: 11px;
     }
 }
