@@ -54,7 +54,7 @@ footer{
 
 .efeito{
     background-color: rgba(0, 0, 0, 0.5);
-    /*box-shadow: #111111 2px 2px 2px 2px;*/
+    box-shadow: #111111 2px 2px 2px 2px;
 }
 
 #conteudo{
