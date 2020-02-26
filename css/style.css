@@ -5,11 +5,14 @@
 }
 
 html, body{
+
     height: 100%;
 }
 
 #tudo{
+
     min-height: 100%;
+    position: relative;
 }
 
 body{
@@ -20,7 +23,7 @@ body{
     background-image: url(https://www.itl.cat/pngfile/big/6-60692_lemillion-mirio-togata-my-hero-academia-boku-no.jpg);
     background-size: cover;
     background-attachment: fixed;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
 }
 
 header{
@@ -49,14 +52,14 @@ footer{
 }
 
 .container{
-    width: 900px;
+    width: 90%;
     margin: auto;
     
 }
 
 .container2{
     width: 80%;
-    color: rgba(255, 0, 0, 0.76);
+    color: rgba(253, 0, 0, 0.788);
     margin: auto;
     padding: 20px 0 0 0;
     text-shadow: 1px 1px 1px #111111;
