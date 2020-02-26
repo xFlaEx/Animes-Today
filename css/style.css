@@ -35,8 +35,9 @@ header{
 }
 
 img{
-    width: 150px;
+    width: 25%;
     height: 100px;
+    float: left;
 
 }
 
